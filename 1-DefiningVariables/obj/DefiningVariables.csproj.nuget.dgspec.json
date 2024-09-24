@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\DefiningVariables\\DefiningVariables.csproj": {}
+    "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\1-DefiningVariables\\DefiningVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\DefiningVariables\\DefiningVariables.csproj": {
+    "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\1-DefiningVariables\\DefiningVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\DefiningVariables\\DefiningVariables.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\1-DefiningVariables\\DefiningVariables.csproj",
         "projectName": "DefiningVariables",
-        "projectPath": "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\DefiningVariables\\DefiningVariables.csproj",
+        "projectPath": "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\1-DefiningVariables\\DefiningVariables.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\DefiningVariables\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Source\\Repos\\IstkaFullData\\Fundamentals\\1-DefiningVariables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

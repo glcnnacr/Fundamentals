@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace 1- DefiningVariables
+namespace DefiningVariables
 {
    
     public class Program
@@ -69,8 +69,8 @@ namespace 1- DefiningVariables
                 // Let's define variables to represent a student's first name, last name, date of birth, shoe size,
                 // ID number (TC No), and mobile number (GSM).
 
-                string firstName="Gul", lastName;
-                DateTime dateOfBirth;
+                string firstName="Gul", lastName="Acar";
+                DateTime dateOfBirth = new DateTime(1995, 10, 1);
                 DateTime today = DateTime.Now;// Assignment of the initial value
                 byte shoeSize=38;
                 string tcNo = "12345678901";
@@ -78,6 +78,8 @@ namespace 1- DefiningVariables
                 tcNo.ToString().Substring(8,11);
 
                 string gsm="+90 512 345 67 89";
+
+                Console.WriteLine($"First Name: {firstName}, Last Name: {lastName}, Date of Birth: {dateOfBirth.ToShortDateString()}, Today's Date: {today}, Shoe Size: {shoeSize}, TC No (last 4 digits): {tcNo.Substring(7)}, GSM: {gsm}");
 
             #endregion
 
@@ -99,7 +101,7 @@ namespace 1- DefiningVariables
             #region Constants
 
                 const float pi = 3.14F;
-                pi = 4.56f; // Values cannot be reassigned to const variables
+                //pi = 4.56f; Values cannot be reassigned to const variables
 
                 System.Console.WriteLine(pi);
 
