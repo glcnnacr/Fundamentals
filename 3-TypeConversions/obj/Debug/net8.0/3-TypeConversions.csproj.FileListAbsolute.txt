@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\bin\Debug\net8.0\3-TypeConversions.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\bin\Debug\net8.0\3-TypeConversions.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\bin\Debug\net8.0\3-TypeConversions.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\bin\Debug\net8.0\3-TypeConversions.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\bin\Debug\net8.0\3-TypeConversions.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\refint\3-TypeConversions.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\3-TypeConversions.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\3-TypeConversions\obj\Debug\net8.0\ref\3-TypeConversions.dll
