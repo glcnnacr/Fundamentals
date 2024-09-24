@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\bin\Debug\net8.0\2-IfElse.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\bin\Debug\net8.0\2-IfElse.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\bin\Debug\net8.0\2-IfElse.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\bin\Debug\net8.0\2-IfElse.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\bin\Debug\net8.0\2-IfElse.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\refint\2-IfElse.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\2-IfElse.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\2-IfElse\obj\Debug\net8.0\ref\2-IfElse.dll
