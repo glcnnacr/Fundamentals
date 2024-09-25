@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\bin\Debug\net8.0\8-MainArguman.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\bin\Debug\net8.0\8-MainArguman.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\bin\Debug\net8.0\8-MainArguman.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\bin\Debug\net8.0\8-MainArguman.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\bin\Debug\net8.0\8-MainArguman.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\refint\8-MainArguman.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\8-MainArguman.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\8-MainArguman\obj\Debug\net8.0\ref\8-MainArguman.dll
