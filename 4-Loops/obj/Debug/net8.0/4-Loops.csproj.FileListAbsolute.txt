@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\bin\Debug\net8.0\4-Loops.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\bin\Debug\net8.0\4-Loops.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\bin\Debug\net8.0\4-Loops.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\bin\Debug\net8.0\4-Loops.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\bin\Debug\net8.0\4-Loops.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\refint\4-Loops.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\4-Loops.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\4-Loops\obj\Debug\net8.0\ref\4-Loops.dll
