@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\bin\Debug\net8.0\7-TryCatch.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\bin\Debug\net8.0\7-TryCatch.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\bin\Debug\net8.0\7-TryCatch.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\bin\Debug\net8.0\7-TryCatch.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\bin\Debug\net8.0\7-TryCatch.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\refint\7-TryCatch.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\7-TryCatch.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\7-TryCatch\obj\Debug\net8.0\ref\7-TryCatch.dll

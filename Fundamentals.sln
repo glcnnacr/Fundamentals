@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-ConsoleOutput", "6-Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-MainArguman", "8-MainArguman\8-MainArguman.csproj", "{33906623-B4D8-496F-98F4-0CEE50DFFF86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Methods", "9-Methods\9-Methods.csproj", "{31D57508-6F1F-43B5-8812-19B547C8D588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{33906623-B4D8-496F-98F4-0CEE50DFFF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33906623-B4D8-496F-98F4-0CEE50DFFF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33906623-B4D8-496F-98F4-0CEE50DFFF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D57508-6F1F-43B5-8812-19B547C8D588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D57508-6F1F-43B5-8812-19B547C8D588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D57508-6F1F-43B5-8812-19B547C8D588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D57508-6F1F-43B5-8812-19B547C8D588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

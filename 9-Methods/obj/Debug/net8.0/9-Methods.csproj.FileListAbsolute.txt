@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\bin\Debug\net8.0\9-Methods.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\bin\Debug\net8.0\9-Methods.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\bin\Debug\net8.0\9-Methods.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\bin\Debug\net8.0\9-Methods.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\bin\Debug\net8.0\9-Methods.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\refint\9-Methods.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\9-Methods.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\9-Methods\obj\Debug\net8.0\ref\9-Methods.dll
