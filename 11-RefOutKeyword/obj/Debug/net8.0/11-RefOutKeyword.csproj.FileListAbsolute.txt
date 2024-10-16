@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\refint\11-RefOutKeyword.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\11-RefOutKeyword\obj\Debug\net8.0\ref\11-RefOutKeyword.dll
