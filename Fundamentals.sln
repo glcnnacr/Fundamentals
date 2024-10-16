@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-MethodsLab", "10-Methods
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-RefOutKeyword", "11-RefOutKeyword\11-RefOutKeyword.csproj", "{8AE77D93-2F8D-474A-87E0-8458AAB72A39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-ArrayClassAndMethods", "12-ArrayClassAndMethods\12-ArrayClassAndMethods.csproj", "{D13EB3F5-E508-40A1-B5EA-6BF2A2B6B966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{8AE77D93-2F8D-474A-87E0-8458AAB72A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AE77D93-2F8D-474A-87E0-8458AAB72A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AE77D93-2F8D-474A-87E0-8458AAB72A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13EB3F5-E508-40A1-B5EA-6BF2A2B6B966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13EB3F5-E508-40A1-B5EA-6BF2A2B6B966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13EB3F5-E508-40A1-B5EA-6BF2A2B6B966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13EB3F5-E508-40A1-B5EA-6BF2A2B6B966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

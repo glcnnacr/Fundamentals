@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\bin\Debug\net8.0\12-ArrayClassAndMethods.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\bin\Debug\net8.0\12-ArrayClassAndMethods.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\bin\Debug\net8.0\12-ArrayClassAndMethods.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\bin\Debug\net8.0\12-ArrayClassAndMethods.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\bin\Debug\net8.0\12-ArrayClassAndMethods.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\refint\12-ArrayClassAndMethods.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\12-ArrayClassAndMethods.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\12-ArrayClassAndMethods\obj\Debug\net8.0\ref\12-ArrayClassAndMethods.dll
