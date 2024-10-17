@@ -1,0 +1,15 @@
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\bin\Debug\net8.0\14-Lists.exe
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\bin\Debug\net8.0\14-Lists.deps.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\bin\Debug\net8.0\14-Lists.runtimeconfig.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\bin\Debug\net8.0\14-Lists.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\bin\Debug\net8.0\14-Lists.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.AssemblyInfoInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.AssemblyInfo.cs
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.sourcelink.json
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\refint\14-Lists.dll
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.pdb
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\14-Lists.genruntimeconfig.cache
+C:\Users\fatih\Source\Repos\IstkaFullData\Fundamentals\14-Lists\obj\Debug\net8.0\ref\14-Lists.dll

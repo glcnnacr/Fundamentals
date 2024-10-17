@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-ArrayClassAndMethods", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ArrayList", "13-ArrayList\13-ArrayList.csproj", "{8E1EC724-A051-40F5-BD42-89073639D2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Lists", "14-Lists\14-Lists.csproj", "{F2FD3641-15D9-425E-9DD5-CB790D24434E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{8E1EC724-A051-40F5-BD42-89073639D2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E1EC724-A051-40F5-BD42-89073639D2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E1EC724-A051-40F5-BD42-89073639D2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FD3641-15D9-425E-9DD5-CB790D24434E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FD3641-15D9-425E-9DD5-CB790D24434E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FD3641-15D9-425E-9DD5-CB790D24434E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FD3641-15D9-425E-9DD5-CB790D24434E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
