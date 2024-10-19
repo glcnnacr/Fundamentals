@@ -1,0 +1,15 @@
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\bin\Release\net8.0\DefiningVariables.exe
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\bin\Release\net8.0\DefiningVariables.deps.json
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\bin\Release\net8.0\DefiningVariables.runtimeconfig.json
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\bin\Release\net8.0\DefiningVariables.dll
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\bin\Release\net8.0\DefiningVariables.pdb
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.AssemblyInfo.cs
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.sourcelink.json
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.dll
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\refint\DefiningVariables.dll
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.pdb
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\DefiningVariables.genruntimeconfig.cache
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\1-DefiningVariables\obj\Release\net8.0\ref\DefiningVariables.dll

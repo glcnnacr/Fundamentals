@@ -1,0 +1,15 @@
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\bin\Release\net8.0\15-BuiltInMethods.exe
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\bin\Release\net8.0\15-BuiltInMethods.deps.json
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\bin\Release\net8.0\15-BuiltInMethods.runtimeconfig.json
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\bin\Release\net8.0\15-BuiltInMethods.dll
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\bin\Release\net8.0\15-BuiltInMethods.pdb
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.AssemblyInfo.cs
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.sourcelink.json
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.dll
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\refint\15-BuiltInMethods.dll
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.pdb
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\15-BuiltInMethods.genruntimeconfig.cache
+C:\Users\fatih\source\repos\IstkaFullData\Fundamentals\15-BuiltInMethods\obj\Release\net8.0\ref\15-BuiltInMethods.dll

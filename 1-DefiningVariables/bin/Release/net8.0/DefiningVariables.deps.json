@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DefiningVariables/1.0.0": {
+        "runtime": {
+          "DefiningVariables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefiningVariables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

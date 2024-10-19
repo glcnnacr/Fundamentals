@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4-Loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2abd0a3eb395f31d98b8ecabe20318f5e0c7cd82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60571518233efc0f3ed2968d1cf2d879feb43774")]
 [assembly: System.Reflection.AssemblyProductAttribute("4-Loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4-Loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

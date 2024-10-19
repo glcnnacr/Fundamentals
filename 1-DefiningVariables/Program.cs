@@ -75,7 +75,7 @@ namespace DefiningVariables
                 byte shoeSize=38;
                 string tcNo = "12345678901";
                 System.Console.WriteLine(tcNo.Substring(7));
-                tcNo.ToString().Substring(8,11);
+                //tcNo.ToString().Substring(8,11);
 
                 string gsm="+90 512 345 67 89";
 
